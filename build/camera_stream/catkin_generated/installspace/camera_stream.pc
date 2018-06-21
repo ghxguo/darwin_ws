@@ -1,8 +1,0 @@
-prefix=/home/pi/darwin_ws/install
-
-Name: camera_stream
-Description: Description of camera_stream
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/pi/darwin_ws/install/lib 
-Requires: 
